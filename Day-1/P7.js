@@ -1,6 +1,6 @@
 // Count the number of vowels in a string.
 
-let string='aeiou'
+let string='abdulrehman'
 let count=0;
 
 for (let index = 0; index < string.length; index++) {
